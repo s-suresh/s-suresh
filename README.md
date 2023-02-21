@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @s-suresh
-- 👀 I’m interested in image processing 
+- 👀 I’m interested in data engineering
+and curretly trying it out 
 - 🌱 I’m currently learning computer vision and all the rest
 - 💞️ I’m looking to collaborate on any fun projects we can do together!
 - 📫 How to reach me sureshbabu.sus@gmail.com
